@@ -13,7 +13,7 @@ function ListaDeTareas() {
 
   return (
     <>
-      <TareaFormulario />
+      <TareaFormulario onSubmit={agregarTarea} />
       <div className="tareas-lista-contenedor">
         {
           tareas.map((tarea) =>
