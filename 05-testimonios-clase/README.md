@@ -1,0 +1,1 @@
+Clonación de la sección de testimonios de freeCodeCamp usando componentes de clase y no con componentes funcionales
